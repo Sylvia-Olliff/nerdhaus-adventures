@@ -1,0 +1,48 @@
+{
+	autofocus_id: "0B814DC0AFAEA35C"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_beginning"
+	group: "13D04B71C7792B89"
+	id: "1BD5893CE265FCA6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&o&8Welcome to the modpack NerdHaus Adventures!&r"
+				"&o&8Let's get you started!&r"
+			]
+			id: "0B814DC0AFAEA35C"
+			tasks: [{
+				id: "724D1428B91913E9"
+				title: "Welcome to NerdHaus Adventures"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["&8&oWell that didn't stick! lol &r"]
+			id: "491596BB5FD73849"
+			invisible: true
+			rewards: [{
+				id: "2CE5A7A4468D2E2D"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Whelp"
+			tasks: [{
+				id: "5DD9FE3D740875D9"
+				stat: "minecraft:deaths"
+				title: "Non-Sticky Situation"
+				type: "stat"
+				value: 1
+			}]
+			title: "Non-Sticky Situation"
+			x: -7.0d
+			y: 1.5d
+		}
+	]
+	title: "The Beginning"
+}

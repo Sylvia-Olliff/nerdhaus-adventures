@@ -1,0 +1,16 @@
+{
+	id: "7D3F6294616EB60C"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ item: "wizards:arcane_spell_book" }
+		{ item: "wizards:fire_spell_book" }
+		{ item: "wizards:frost_spell_book" }
+		{ item: "morewizardsmod:more_wizards_lightning_spell_book" }
+		{ item: "morewizardsmod:more_wizards_soul_spell_book" }
+		{ item: "elemental_wizards_rpg:wind_spell_book" }
+		{ item: "elemental_wizards_rpg:terra_spell_book" }
+		{ item: "elemental_wizards_rpg:aqua_spell_book" }
+	]
+	title: "ApprenticeStudies"
+}

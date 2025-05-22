@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "classic",
+			"facing": "north"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "harp",
+			"facing": "north"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "harp",
+			"facing": "north"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "smooth",
+			"facing": "north"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "smooth",
+			"facing": "north"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "classic",
+			"facing": "south"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "classic",
+			"facing": "south"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "harp",
+			"facing": "south"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "harp",
+			"facing": "south"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "smooth",
+			"facing": "south"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "smooth",
+			"facing": "south"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "classic",
+			"facing": "west"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "classic",
+			"facing": "west"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "harp",
+			"facing": "west"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "harp",
+			"facing": "west"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "smooth",
+			"facing": "west"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "smooth",
+			"facing": "west"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "classic",
+			"facing": "east"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "classic",
+			"facing": "east"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "harp",
+			"facing": "east"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "harp",
+			"facing": "east"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "true",
+			"style": "smooth",
+			"facing": "east"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggle": "false",
+			"style": "smooth",
+			"facing": "east"
+		},
+		"Name": "mcwstairs:diorite_railing"
+	}
+]

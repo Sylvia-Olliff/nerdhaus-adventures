@@ -1,0 +1,324 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "left",
+			"fencepart": "bottom",
+			"facing": "north"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "left",
+			"fencepart": "bottom",
+			"facing": "north"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "right",
+			"fencepart": "bottom",
+			"facing": "north"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "right",
+			"fencepart": "bottom",
+			"facing": "north"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "left",
+			"fencepart": "top",
+			"facing": "north"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "right",
+			"fencepart": "top",
+			"facing": "north"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "right",
+			"fencepart": "top",
+			"facing": "north"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "left",
+			"fencepart": "bottom",
+			"facing": "south"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "left",
+			"fencepart": "bottom",
+			"facing": "south"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "right",
+			"fencepart": "bottom",
+			"facing": "south"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "right",
+			"fencepart": "bottom",
+			"facing": "south"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "left",
+			"fencepart": "top",
+			"facing": "south"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "left",
+			"fencepart": "top",
+			"facing": "south"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "right",
+			"fencepart": "top",
+			"facing": "south"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "right",
+			"fencepart": "top",
+			"facing": "south"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "left",
+			"fencepart": "bottom",
+			"facing": "west"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "left",
+			"fencepart": "bottom",
+			"facing": "west"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "right",
+			"fencepart": "bottom",
+			"facing": "west"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "right",
+			"fencepart": "bottom",
+			"facing": "west"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "left",
+			"fencepart": "top",
+			"facing": "west"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "left",
+			"fencepart": "top",
+			"facing": "west"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "right",
+			"fencepart": "top",
+			"facing": "west"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "right",
+			"fencepart": "top",
+			"facing": "west"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "left",
+			"fencepart": "bottom",
+			"facing": "east"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "left",
+			"fencepart": "bottom",
+			"facing": "east"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "right",
+			"fencepart": "bottom",
+			"facing": "east"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "right",
+			"fencepart": "bottom",
+			"facing": "east"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "left",
+			"fencepart": "top",
+			"facing": "east"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "left",
+			"fencepart": "top",
+			"facing": "east"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "true",
+			"hinge": "right",
+			"fencepart": "top",
+			"facing": "east"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"open": "false",
+			"hinge": "right",
+			"fencepart": "top",
+			"facing": "east"
+		},
+		"Name": "mcwfences:birch_curved_gate"
+	}
+]

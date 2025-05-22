@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "showOnlyOneTime": true,
+  "chatMessage": false,
+  "showCreator": true,
+  "customStructureName": {
+    "minecraft:swamp_hut": "a_cat:cat_hut"
+  },
+  "dontShowAll": [
+    "minecraft:",
+    "dimdungeons:"
+  ],
+  "dontShow": [
+    "minecraft:plains_village",
+    "minecraft:desert_village",
+    "towns_and_towers:village_forest",
+    "the_lost_city:camp_1",
+    "dungeons_arise:merchant_campsite",
+    "ctov:medium/village_savanna_na",
+    "ae2:meteorite",
+    "create_ltab:ruins",
+    "ctov:small/village_plains_fortified",
+    "the_lost_city:city",
+    "towns_and_towers:village_snowy_taiga"
+  ]
+}

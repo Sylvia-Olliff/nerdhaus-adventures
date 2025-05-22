@@ -1,0 +1,45 @@
+{
+	id: "32B7BBFB911CAA79"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "soulsweapons:holy_moonlight_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "mcdw:sword_broadsword"
+				tag: {
+					Damage: 0
+					Enchantments: [
+						{
+							id: "minecraft:knockback"
+							lvl: 1s
+						}
+						{
+							id: "mcdw:swirling"
+							lvl: 1s
+						}
+					]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "mcdw:sword_diamond_sword_var"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "OrderDedication"
+}

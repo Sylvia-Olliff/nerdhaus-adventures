@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "north"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "north"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "north"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "north"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "north"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "north"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "north"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "north"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "east"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "east"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "east"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "east"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "east"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "east"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "east"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "east"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "south"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "south"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "south"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "south"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "south"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "south"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "south"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "south"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "west"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "west"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "west"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "west"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "west"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "west"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "west"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "west"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "up"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "up"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "up"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "up"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "up"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "up"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "up"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "down"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "true",
+			"facing": "down"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "down"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "true",
+			"facing": "down"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "down"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "true",
+			"horizontal": "false",
+			"facing": "down"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "down"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"lit": "false",
+			"horizontal": "false",
+			"facing": "down"
+		},
+		"Name": "blazinghot:light_blue_modern_lamp_double_panel"
+	}
+]

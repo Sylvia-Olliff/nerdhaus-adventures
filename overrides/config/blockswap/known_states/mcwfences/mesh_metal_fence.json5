@@ -1,0 +1,355 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"fencepart": "top",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"fencepart": "top",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"fencepart": "top",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"fencepart": "top",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"fencepart": "top",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"fencepart": "top",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"fencepart": "top",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"fencepart": "top",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"fencepart": "bottom",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"fencepart": "bottom",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"fencepart": "bottom",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"fencepart": "bottom",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"fencepart": "bottom",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"fencepart": "bottom",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"fencepart": "bottom",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"fencepart": "bottom",
+			"east": "true"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"fencepart": "top",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"fencepart": "top",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"fencepart": "top",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"fencepart": "top",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"fencepart": "top",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"fencepart": "top",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"fencepart": "top",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "true",
+			"fencepart": "bottom",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "true",
+			"fencepart": "bottom",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "true",
+			"fencepart": "bottom",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "true",
+			"fencepart": "bottom",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "true",
+			"north": "false",
+			"fencepart": "bottom",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "true",
+			"north": "false",
+			"fencepart": "bottom",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"south": "false",
+			"north": "false",
+			"fencepart": "bottom",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"south": "false",
+			"north": "false",
+			"fencepart": "bottom",
+			"east": "false"
+		},
+		"Name": "mcwfences:mesh_metal_fence"
+	}
+]

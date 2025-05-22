@@ -1,0 +1,365 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "off",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "mining",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extract_tube",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "error",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "complete",
+			"facing": "north",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "off",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "mining",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extract_tube",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "error",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "complete",
+			"facing": "south",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "off",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "mining",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extract_tube",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "error",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "complete",
+			"facing": "west",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "off",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "mining",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extract_tube",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "error",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "complete",
+			"facing": "east",
+			"active": "true"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "mining",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extract_tube",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "error",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "complete",
+			"facing": "north",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "off",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "mining",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extract_tube",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "error",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "complete",
+			"facing": "south",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "off",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "mining",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extract_tube",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "error",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "complete",
+			"facing": "west",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "off",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "mining",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "extract_tube",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "error",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"state": "complete",
+			"facing": "east",
+			"active": "false"
+		},
+		"Name": "quarrymod:quarry"
+	}
+]

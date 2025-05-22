@@ -1,0 +1,102 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "to_smaller",
+			"facing": "north"
+		},
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "to_bigger",
+			"facing": "north"
+		},
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "to_smaller",
+			"facing": "south"
+		},
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "to_bigger",
+			"facing": "south"
+		},
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "off",
+			"facing": "south"
+		},
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "to_smaller",
+			"facing": "west"
+		},
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "to_bigger",
+			"facing": "west"
+		},
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "off",
+			"facing": "west"
+		},
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "to_smaller",
+			"facing": "east"
+		},
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "to_bigger",
+			"facing": "east"
+		},
+		"Name": "missions:mechanical_exchanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"mode": "off",
+			"facing": "east"
+		},
+		"Name": "missions:mechanical_exchanger"
+	}
+]

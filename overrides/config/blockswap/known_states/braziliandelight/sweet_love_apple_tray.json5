@@ -1,0 +1,1265 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "0",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "0",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "0",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "0",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "1",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "1",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "1",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "1",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "1",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "2",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "2",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "2",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "2",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "2",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "3",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "3",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "3",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "3",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "3",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "4",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "4",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "4",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "4",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "4",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "5",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "5",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "5",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "5",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "5",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "6",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "6",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "6",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "6",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "6",
+			"facing": "north"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "0",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "0",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "0",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "0",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "0",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "1",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "1",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "1",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "1",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "1",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "2",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "2",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "2",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "2",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "2",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "3",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "3",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "3",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "3",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "3",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "4",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "4",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "4",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "4",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "4",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "5",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "5",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "5",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "5",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "5",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "6",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "6",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "6",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "6",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "6",
+			"facing": "south"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "0",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "0",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "0",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "0",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "0",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "1",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "1",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "1",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "1",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "1",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "2",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "2",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "2",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "2",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "2",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "3",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "3",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "3",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "3",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "3",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "4",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "4",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "4",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "4",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "4",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "5",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "5",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "5",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "5",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "5",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "6",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "6",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "6",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "6",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "6",
+			"facing": "west"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "0",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "0",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "0",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "0",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "0",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "1",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "1",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "1",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "1",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "1",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "2",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "2",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "2",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "2",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "2",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "3",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "3",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "3",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "3",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "3",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "4",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "4",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "4",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "4",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "4",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "5",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "5",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "5",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "5",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "5",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "0",
+			"parts": "6",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "1",
+			"parts": "6",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "2",
+			"parts": "6",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "3",
+			"parts": "6",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"uses": "4",
+			"parts": "6",
+			"facing": "east"
+		},
+		"Name": "braziliandelight:sweet_love_apple_tray"
+	}
+]

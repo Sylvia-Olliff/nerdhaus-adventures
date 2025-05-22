@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "north",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "north",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "north",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "north",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "south",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "south",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "south",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "south",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "west",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "west",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "west",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "west",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "east",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "east",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "east",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "east",
+			"axis": "x"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "north",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "north",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "north",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "south",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "south",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "south",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "south",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "west",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "west",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "west",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "west",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "east",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "east",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "east",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "east",
+			"axis": "y"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "north",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "north",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "north",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "north",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "south",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "south",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "south",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "south",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "west",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "west",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "west",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "west",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "true",
+			"facing": "east",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "true",
+			"facing": "east",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "true",
+			"hassap": "false",
+			"facing": "east",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"shouldsap": "false",
+			"hassap": "false",
+			"facing": "east",
+			"axis": "z"
+		},
+		"Name": "techreborn:rubber_log"
+	}
+]

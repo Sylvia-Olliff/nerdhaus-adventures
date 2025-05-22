@@ -1,0 +1,119 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "1"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "2"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "3"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "4"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "5"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "6"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "7"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "8"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "9"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "10"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "11"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "12"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "13"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "14"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"neighbors": "15"
+		},
+		"Name": "techreborn:basic_machine_casing"
+	}
+]

@@ -1,0 +1,1667 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gearing_up"
+	group: "13D04B71C7792B89"
+	id: "0D6601E58BCFB10E"
+	order_index: 1
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&8&oThere are many different classes/specializations available in NerdHaus Adventures. &r"
+				"&8&oThis can be a little overwhelming at first, however just pick one that seems interesting and try it out, you can always change it with a skill reset and a different skill book. &r"
+				"&8&oHere's a list of some good starting points &r"
+			]
+			disable_toast: true
+			id: "725B3CED5E85F9BD"
+			subtitle: "So it begins"
+			tasks: [{
+				id: "34495BADC0A7E161"
+				title: "Specializations and you"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["725B3CED5E85F9BD"]
+			description: ["&8&oThe deathknights are a group of melee casters able to specialize into either Frost, Blood, or Unholy &r"]
+			icon: {
+				Count: 1
+				id: "death_knights:initiate_armor_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "674D30919E163178"
+			rewards: [{
+				id: "52A563C11B86DBDF"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			subtitle: "The path of the Death Knight"
+			tasks: [
+				{
+					id: "4E2EEA1F01B264A2"
+					item: {
+						Count: 1
+						id: "death_knights:initiate_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3E590014663DA3AD"
+					item: {
+						Count: 1
+						id: "death_knights:initiate_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0D98BECF40BADED4"
+					item: {
+						Count: 1
+						id: "death_knights:initiate_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "093C5FB12D12B33A"
+					item: {
+						Count: 1
+						id: "death_knights:initiate_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Death Knight"
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["674D30919E163178"]
+			description: ["&8&oThe Frost Deathknight specializes in raw melee dps with some crowd control elements &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "death_knights:frozen_champion_armor_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2B21550275A22115"
+			rewards: [
+				{
+					id: "56CC8FA86ABF31AF"
+					item: "death_knights:frost_spell_book"
+					type: "item"
+				}
+				{
+					id: "7A0C8271B7BD1D07"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "The path of Frost"
+			tasks: [
+				{
+					id: "1DE9EE0A839B71DD"
+					item: {
+						Count: 1
+						id: "death_knights:frozen_champion_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "086E09B7ACF5F7DC"
+					item: {
+						Count: 1
+						id: "death_knights:frozen_champion_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2216754B9F0903AF"
+					item: {
+						Count: 1
+						id: "death_knights:frozen_champion_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "774FD131170E73B1"
+					item: {
+						Count: 1
+						id: "death_knights:frozen_champion_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Frost Deathknight"
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["674D30919E163178"]
+			description: ["&8&oThe Blood Deathknight specializes in sustain and tanking via regen &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "death_knights:crimson_guard_armor_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "08683B5E5ADCF17D"
+			rewards: [
+				{
+					id: "26D0D770F6828A96"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "477338038AF68755"
+					item: "death_knights:blood_spell_book"
+					type: "item"
+				}
+			]
+			subtitle: "The Blood Deathknight"
+			tasks: [
+				{
+					id: "0DBEBD0AE0A1D639"
+					item: {
+						Count: 1
+						id: "death_knights:crimson_guard_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "71C8D011FB1FCD1E"
+					item: {
+						Count: 1
+						id: "death_knights:crimson_guard_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5932487D38D9098F"
+					item: {
+						Count: 1
+						id: "death_knights:crimson_guard_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2ABC07A6B0641467"
+					item: {
+						Count: 1
+						id: "death_knights:crimson_guard_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Blood Deathknight"
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["674D30919E163178"]
+			description: ["&8&oThe Unholy Deathknight specializes in DPS both ranged and melee &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "death_knights:plaguebringer_armor_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1AD9525FC2E5E9FA"
+			rewards: [
+				{
+					id: "1FEE3D5390A91B0B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "334CD491E6A8AE2D"
+					item: "death_knights:unholy_spell_book"
+					type: "item"
+				}
+			]
+			subtitle: "The Unholy Deathknight"
+			tasks: [
+				{
+					id: "2B3FF4D309FC11CF"
+					item: {
+						Count: 1
+						id: "death_knights:plaguebringer_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24853631CA18D379"
+					item: {
+						Count: 1
+						id: "death_knights:plaguebringer_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "16B895FE03E0189F"
+					item: {
+						Count: 1
+						id: "death_knights:plaguebringer_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "28836FB06591F7C9"
+					item: {
+						Count: 1
+						id: "death_knights:plaguebringer_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Unholy Deathknight"
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2B21550275A22115"]
+			description: ["&8&oThe Frost Deathknight Champion wears the most elite equipment making them the pennicale of frozen death &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "death_knights:icebound_knight_armor_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "49F2F020F58A285B"
+			rewards: [{
+				id: "1BB0308407C64C2C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "The ultimate Frost Deathknight"
+			tasks: [
+				{
+					id: "3D413AD297EE0153"
+					item: {
+						Count: 1
+						id: "death_knights:icebound_knight_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "424DF7A9445DAEF4"
+					item: {
+						Count: 1
+						id: "death_knights:icebound_knight_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34882B26FAC39318"
+					item: {
+						Count: 1
+						id: "death_knights:icebound_knight_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7DDCF8376C7E3565"
+					item: {
+						Count: 1
+						id: "death_knights:icebound_knight_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3BB1DAC7F17901B4"
+					item: {
+						Count: 1
+						id: "death_knights:frost_spell_book"
+						tag: {
+							spell_container: {
+								pool: "death_knights:frost"
+								spell_ids: [
+									"death_knights:obliterate"
+									"death_knights:frost_strike"
+									"death_knights:remorseless_winter"
+									"death_knights:agonizing_breath"
+								]
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Frost Champion"
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["08683B5E5ADCF17D"]
+			description: ["&8&oThe Blood Champion is the ultimate incarnation of the Blood Deathknight wielding untold strength and sustain &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "death_knights:crimson_knight_armor_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7F0A0B47896133B4"
+			rewards: [{
+				id: "44B6BDCD9CE98EBB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "The Blood Champion"
+			tasks: [
+				{
+					id: "218FC8479FB8E223"
+					item: {
+						Count: 1
+						id: "death_knights:crimson_knight_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "179C63F2B28BD03E"
+					item: {
+						Count: 1
+						id: "death_knights:crimson_knight_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "69E58FCBC4524335"
+					item: {
+						Count: 1
+						id: "death_knights:crimson_knight_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7FFD4FB9034C5D62"
+					item: {
+						Count: 1
+						id: "death_knights:crimson_knight_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1ECB9517260468A5"
+					item: {
+						Count: 1
+						id: "death_knights:blood_spell_book"
+						tag: {
+							spell_container: {
+								pool: "death_knights:blood"
+								spell_ids: [
+									"death_knights:death_strike"
+									"death_knights:marrowrend"
+									"death_knights:blood_boil"
+									"death_knights:dark_command"
+								]
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Blood Champion"
+			x: 0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1AD9525FC2E5E9FA"]
+			description: ["&8&oThe Unholy Champion wields terrible unholy power raining devistation on their enemies &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "death_knights:blightbringer_armor_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "117B7C3609D02657"
+			rewards: [{
+				id: "4086E6F0CCA7CB93"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "The Unholy Champion"
+			tasks: [
+				{
+					id: "50C10CD4FA9A0E7C"
+					item: {
+						Count: 1
+						id: "death_knights:blightbringer_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "18B7FDFF8E535EFD"
+					item: {
+						Count: 1
+						id: "death_knights:blightbringer_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "130A7923BB84402D"
+					item: {
+						Count: 1
+						id: "death_knights:blightbringer_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0B0C25BB8999C47E"
+					item: {
+						Count: 1
+						id: "death_knights:blightbringer_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "32D99BC13E85D11D"
+					item: {
+						Count: 1
+						id: "death_knights:unholy_spell_book"
+						tag: {
+							spell_container: {
+								pool: "death_knights:unholy"
+								spell_ids: [
+									"death_knights:festering_strike"
+									"death_knights:death_coil"
+									"death_knights:epidemic"
+									"death_knights:death_grip"
+								]
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Unholy Champion"
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["725B3CED5E85F9BD"]
+			description: ["&8&oThe beginning of the tree of melee fighters &r"]
+			icon: {
+				Count: 1
+				id: "rogues:warrior_armor_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1DDF39A765212E74"
+			rewards: [
+				{
+					id: "30EBFA5D4A126568"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "3CB0E8D7BF4DD7AC"
+					item: "rogues:warrior_spell_book"
+					type: "item"
+				}
+			]
+			subtitle: "In your face!"
+			tasks: [
+				{
+					id: "5837C0C61E189CE5"
+					item: {
+						Count: 1
+						id: "rogues:warrior_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6636AC67BAB18EB9"
+					item: {
+						Count: 1
+						id: "rogues:warrior_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "66374696395E17EF"
+					item: {
+						Count: 1
+						id: "rogues:warrior_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "47025794416CABEF"
+					item: {
+						Count: 1
+						id: "rogues:warrior_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Path of the Warrior"
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1DDF39A765212E74"]
+			description: ["&8&oAnd thus begins the descent into madness &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "berserker_rpg:wildling_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2F97BABCB90BCE80"
+			rewards: [
+				{
+					id: "0AC1CBA54F1683BB"
+					item: "berserker_rpg:berserker_spell_book"
+					type: "item"
+				}
+				{
+					id: "1E8CAC26085A7C66"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			subtitle: "*incoherent screaming*"
+			tasks: [
+				{
+					id: "006A54E82A834A0B"
+					item: {
+						Count: 1
+						id: "berserker_rpg:wildling_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5CBB07E01F7F043A"
+					item: {
+						Count: 1
+						id: "berserker_rpg:wildling_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "201792D47301AC58"
+					item: {
+						Count: 1
+						id: "berserker_rpg:wildling_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "25A3759AC27FAD7C"
+					item: {
+						Count: 1
+						id: "berserker_rpg:wildling_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Path of the Berserker"
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1DDF39A765212E74"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "witcher_rpg:witcher_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "763A8B25A1726B79"
+			subtitle: "The novice"
+			tasks: [
+				{
+					id: "453734AF3E816BBF"
+					item: {
+						Count: 1
+						id: "witcher_rpg:witcher_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3CB672833B4E2FBC"
+					item: {
+						Count: 1
+						id: "witcher_rpg:witcher_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6DF9AF4B7BACAC28"
+					item: {
+						Count: 1
+						id: "witcher_rpg:witcher_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "27D07378A001E97A"
+					item: {
+						Count: 1
+						id: "witcher_rpg:witcher_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Witcher Beginnings"
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["763A8B25A1726B79"]
+			description: ["&8&oThis path of the witcher focuses on the magic of signs, emitting various elemental effects depending on the sign or combination of signs &r"]
+			hide_until_deps_complete: true
+			icon: "witcher_rpg:witcher_signs_spell_book"
+			id: "6CDF1FF7DE01EF20"
+			rewards: [{
+				id: "29FFA5EE4B1819C6"
+				item: "witcher_rpg:witcher_signs_spell_book"
+				type: "item"
+			}]
+			subtitle: "Magic Mutant?"
+			tasks: [{
+				id: "6CD6EE6E604F4BF8"
+				title: "Witcher Signs"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["763A8B25A1726B79"]
+			description: ["&8&oThis path of the witcher focuses on amazing combat techniques allowing you to drive through foes with ease. &r"]
+			hide_until_deps_complete: true
+			icon: "witcher_rpg:witcher_combat_spell_book"
+			id: "72FD8B32BBBD1258"
+			rewards: [{
+				id: "60EBE451B46A0CEE"
+				item: "witcher_rpg:witcher_combat_spell_book"
+				type: "item"
+			}]
+			subtitle: "Mutant Fighter!"
+			tasks: [{
+				id: "405ECC72F4B696D7"
+				title: "Witcher Techniques"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"6CDF1FF7DE01EF20"
+				"72FD8B32BBBD1258"
+			]
+			description: ["&8&oAnd so begins your time as a master Witcher &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "witcher_rpg:item/witcher_combat_spell_book"
+				}
+			}
+			id: "2BA5440C32957A9F"
+			rewards: [
+				{
+					id: "5478A2646C20E9C3"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "112D85E67648FFE1"
+					item: "witcher_rpg:witcher_master_spell_book"
+					type: "item"
+				}
+			]
+			subtitle: "Mastery of Mutation"
+			tasks: [
+				{
+					id: "4800A4FE31AC848C"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "witcher_rpg:feline_head"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "witcher_rpg:ursine_head"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "witcher_rpg:griffin_head"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "69F49E44D75A74AF"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "witcher_rpg:feline_chest"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "witcher_rpg:ursine_chest"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "witcher_rpg:griffin_chest"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52DE2A26F5292FFC"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "witcher_rpg:feline_legs"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "witcher_rpg:ursine_legs"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "witcher_rpg:griffin_legs"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2B09FFDB4438BFC6"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "witcher_rpg:feline_feet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "witcher_rpg:ursine_feet"
+									tag: {
+										Damage: 0
+									}
+								}
+								{
+									Count: 1b
+									id: "witcher_rpg:griffin_feet"
+									tag: {
+										Damage: 0
+									}
+								}
+							]
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Witcher Master"
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["1DDF39A765212E74"]
+			hide_until_deps_complete: true
+			icon: "paladins:paladin_spell_book"
+			id: "58927C58B7C70F60"
+			rewards: [
+				{
+					id: "6B75460756770C41"
+					item: "paladins:paladin_spell_book"
+					type: "item"
+				}
+				{
+					id: "28A6579E2E573610"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Next is to take an oath"
+			tasks: [
+				{
+					id: "24D95D40DB8640B7"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3D5CB012E0DEE047"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "231D8479CA2C1594"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "78BE083DFB45BEBB"
+					item: {
+						Count: 1
+						id: "paladins:paladin_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "The Holy Warrior"
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["58927C58B7C70F60"]
+			description: ["&8&oTaking the oath of Order is a commitment to uphold rightiousness, justice, and protection of the innocent &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "paladins:crusader_armor_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "14AE919A6E5154AF"
+			rewards: [
+				{
+					id: "1AC1149DC08AE51E"
+					item: {
+						Count: 1
+						id: "simplyswords:diamond_longsword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "27C39CE7594843CD"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Take the oath of Order"
+			tasks: [
+				{
+					id: "4E6DAB8A87F85DAF"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "506BE097ABD396FA"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EDBDA47EC4618A6"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3F716E0F3D73D139"
+					item: {
+						Count: 1
+						id: "paladins:crusader_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Oath of Order"
+			x: 6.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["14AE919A6E5154AF"]
+			description: ["&8&oCompletely dedicating yourself to the cause of Order comes with great responsibility but also the strength to bare it. &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "paladins:netherite_crusader_armor_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1B5DC6C56010F602"
+			rewards: [
+				{
+					id: "21C8AFE819A2D25F"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34727B461F7EDBB6"
+					table_id: 3654596311780207225L
+					type: "choice"
+				}
+			]
+			subtitle: "Further dedicate yourself to Order"
+			tasks: [
+				{
+					id: "29E237FB6FD99901"
+					item: {
+						Count: 1
+						id: "paladins:netherite_crusader_armor_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5CB095D5E545D7D0"
+					item: {
+						Count: 1
+						id: "paladins:netherite_crusader_armor_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F7CA232B62BC5CC"
+					item: {
+						Count: 1
+						id: "paladins:netherite_crusader_armor_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "16B2760E8A3C2474"
+					item: {
+						Count: 1
+						id: "paladins:netherite_crusader_armor_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Dedication to Order"
+			x: 6.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["58927C58B7C70F60"]
+			description: ["&8&oThe oath of vengence calls you to avenge the fallen and the innocent. It hones your wrath exceling maintaining the focus of enemies as you bring them to their doom. &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "spellbladenext:ashherald_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7092694E4EA4DA6F"
+			rewards: [
+				{
+					id: "73262AF2B0D48BCB"
+					item: "spellbladenext:vengeance_spell_book"
+					type: "item"
+				}
+				{
+					id: "69962438B35C39D6"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					id: "6E656656B28BD8C9"
+					item: {
+						Count: 1
+						id: "simplyswords:emberlash"
+						tag: {
+							Damage: 0
+							nether_power: "no_socket"
+							runic_power: "no_socket"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Take the oath of vengence"
+			tasks: [
+				{
+					id: "19D0B5EE282CF00E"
+					item: {
+						Count: 1
+						id: "spellbladenext:ashherald_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4BA0DC2AF75C87F3"
+					item: {
+						Count: 1
+						id: "spellbladenext:ashherald_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11857CEF623F0F89"
+					item: {
+						Count: 1
+						id: "spellbladenext:ashherald_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5711810CBE56FB61"
+					item: {
+						Count: 1
+						id: "spellbladenext:ashherald_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "222DEF76BC55E3D7"
+					item: "jewelry:unique_healing_necklace"
+					type: "item"
+				}
+				{
+					id: "3AB6D703DB1AA058"
+					item: "jewelry:unique_healing_ring"
+					type: "item"
+				}
+			]
+			title: "Oath of Vengence"
+			x: 8.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["58927C58B7C70F60"]
+			description: ["&8&oThe oath of defiance calls you to stand stalwart against the darkness, you must become the impenitrable wall that holds the line. &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "mcda:plate_armor_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "65FBA3262AEB8D12"
+			rewards: [
+				{
+					id: "0B7C5B451D754C6F"
+					item: "spellbladenext:defiance_spell_book"
+					type: "item"
+				}
+				{
+					id: "66238785CA0FCF81"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			subtitle: "Take the oath of defiance"
+			tasks: [
+				{
+					id: "50D04E229EB0D779"
+					item: {
+						Count: 1
+						id: "mcda:plate_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38AAF941FD1774E9"
+					item: {
+						Count: 1
+						id: "mcda:plate_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0AADD57AA1EB29CE"
+					item: {
+						Count: 1
+						id: "mcda:plate_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3604596DE5812A93"
+					item: {
+						Count: 1
+						id: "mcda:plate_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4376EAA9C391BE83"
+					item: "extraspellattributes:goldquartzring"
+					type: "item"
+				}
+				{
+					id: "7FA15902797BB290"
+					item: "extraspellattributes:turtlegirdle"
+					type: "item"
+				}
+			]
+			title: "Oath of Defiance"
+			x: 9.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["65FBA3262AEB8D12"]
+			description: ["&8&oDedicate yourself fully to Defiance, become the steel wall that holds back the darkness &r"]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "mcda:full_metal_armor_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "29C45690F286AF1D"
+			rewards: [
+				{
+					id: "4971CF174FAF0088"
+					item: {
+						Count: 1
+						id: "simplyswords:ribboncleaver"
+						tag: {
+							Damage: 0
+							nether_power: "no_socket"
+							runic_power: "no_socket"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52BA08062ECDB1E7"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Fully Dedicate yourself to Defiance"
+			tasks: [
+				{
+					id: "624A7F901D289BFD"
+					item: {
+						Count: 1
+						id: "mcda:full_metal_armor_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "60533220A1ADF89C"
+					item: {
+						Count: 1
+						id: "mcda:full_metal_armor_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "036001E730522F40"
+					item: {
+						Count: 1
+						id: "mcda:full_metal_armor_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01D6AB3CCDDFB36E"
+					item: {
+						Count: 1
+						id: "mcda:full_metal_armor_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1D57AF1218D43A03"
+					item: "extraspellattributes:defiancering"
+					type: "item"
+				}
+				{
+					id: "64C4891D96DAC3CD"
+					item: "extraspellattributes:goldquartzring"
+					type: "item"
+				}
+				{
+					id: "19BFB26E7B8D8241"
+					item: "jewelry:netherite_sapphire_necklace"
+					type: "item"
+				}
+				{
+					id: "6585E05F7DAE7F57"
+					item: "artifacts:vampiric_glove"
+					type: "item"
+				}
+			]
+			title: "Dedication to Defiance"
+			x: 9.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["725B3CED5E85F9BD"]
+			description: ["&8&oAs you begin your studies, think carefully about what specialization you wish to focus on &r"]
+			icon: {
+				Count: 1
+				id: "wizards:wizard_robe_chest"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "792F172F8ED9CB97"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "22ACECF3ACE17172"
+					table_id: 9025040567703090700L
+					type: "choice"
+				}
+				{
+					id: "1B753E2260CC726D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Begin your studies"
+			tasks: [
+				{
+					id: "4CA0B5DD090A0B4A"
+					item: {
+						Count: 1
+						id: "wizards:wizard_robe_head"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F9B6CA19EF05054"
+					item: {
+						Count: 1
+						id: "wizards:wizard_robe_chest"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "48D537F19609BF78"
+					item: {
+						Count: 1
+						id: "wizards:wizard_robe_legs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "08494E36F89E0F9D"
+					item: {
+						Count: 1
+						id: "wizards:wizard_robe_feet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E2EA6301169F973"
+					item: {
+						Count: 1
+						id: "wizards:staff_wizard"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Apprentice of Magic"
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["792F172F8ED9CB97"]
+			description: ["&8&oYou have chosen to become a Frost Mage, congratulations! Now begins your journey into the depths of Ice and Frost &r"]
+			hide_until_deps_complete: true
+			icon: "wizards:frost_spell_book"
+			id: "71B25A88BF011C17"
+			invisible: true
+			rewards: [
+				{
+					id: "1DD416FD0604CDA6"
+					item: {
+						Count: 1
+						id: "wizards:wand_frost"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "411559D0BCE2BA33"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Becoming a Frost Mage"
+			tasks: [{
+				id: "0A152F35B68186A3"
+				item: "wizards:frost_spell_book"
+				type: "item"
+			}]
+			title: "Frost Specialization"
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["792F172F8ED9CB97"]
+			description: ["&8&oBecoming an Arcane Mage is a focus on the purest form of magical energy. &r"]
+			hide_until_deps_complete: true
+			icon: "wizards:arcane_spell_book"
+			id: "58B1AD29F042EA20"
+			invisible: true
+			rewards: [
+				{
+					id: "75962B51CBC6E2E2"
+					item: {
+						Count: 1
+						id: "wizards:wand_arcane"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3887BBF734DA16CE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			subtitle: "Becoming an Arcane Mage"
+			tasks: [{
+				id: "54AE8BA256035ED5"
+				item: "wizards:arcane_spell_book"
+				type: "item"
+			}]
+			title: " Arcane Specialization"
+			x: 6.5d
+			y: 1.0d
+		}
+	]
+	title: "Gearing Up"
+}
