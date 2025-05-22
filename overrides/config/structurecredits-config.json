@@ -21,6 +21,8 @@
     "create_ltab:ruins",
     "ctov:small/village_plains_fortified",
     "the_lost_city:city",
-    "towns_and_towers:village_snowy_taiga"
+    "towns_and_towers:village_snowy_taiga",
+    "ctov:medium/village_mountain",
+    "the_lost_city:megapolis"
   ]
 }

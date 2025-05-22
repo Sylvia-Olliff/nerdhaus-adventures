@@ -539,17 +539,6 @@
         "value": 9999
       }
     },
-    "spellbladenext:converttoheal": {
-      "enabled": true,
-      "min": {
-        "default": 100,
-        "value": 100
-      },
-      "max": {
-        "default": 9999,
-        "value": 9999
-      }
-    },
     "eternal_attributes:death": {
       "enabled": false,
       "min": {
@@ -1824,6 +1813,17 @@
       "max": {
         "default": 1000,
         "value": 1000
+      }
+    },
+    "spellbladenext:converttoheal": {
+      "enabled": true,
+      "min": {
+        "default": 100,
+        "value": 100
+      },
+      "max": {
+        "default": 9999,
+        "value": 9999
       }
     },
     "bettertrims:bonus_xp": {

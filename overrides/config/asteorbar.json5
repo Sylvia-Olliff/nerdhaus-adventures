@@ -25,7 +25,7 @@
 		// If a bar value is not changing in some seconds, then hide them. 0 to disable.
 		"hideUnchangingBarAfterSeconds": 0,
 		// The color of the health bar. 0x00000000 to 0xFFFFFFFF. ARGB format.
-		"healthColorNormal": -573132, // -47803
+		"healthColorNormal": -573132,
 		// The color of the poison health bar. 0x00000000 to 0xFFFFFFFF. ARGB format.
 		"healthColorPoison": -6520798,
 		// The color of the wither health bar. 0x00000000 to 0xFFFFFFFF. ARGB format.
@@ -45,7 +45,7 @@
 		// The color of the absorption bar bound. 0x00000000 to 0xFFFFFFFF. ARGB format.
 		"absorptionBoundColor": -1715364,
 		// The color of the normal food level bar. 0x00000000 to 0xFFFFFFFF. ARGB format.
-		"foodColorNormal": -15560, // -724404
+		"foodColorNormal": -15560,
 		// The color of the hunger food level bar. 0x00000000 to 0xFFFFFFFF. ARGB format.
 		"foodColorHunger": -5194156,
 		// The color of the food level bar bound. 0x00000000 to 0xFFFFFFFF. ARGB format.

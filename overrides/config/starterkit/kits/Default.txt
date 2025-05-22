@@ -5,7 +5,7 @@
 'offhand' : '{Count:1b,id:"minecraft:shield",tag:{Damage:0}}',
 0 : '{Count:1b,id:"minecraft:stone_sword",tag:{Damage:0}}',
 1 : '{Count:16b,id:"minecraft:bread"}',
-2 : '{Count:1b,id:"ftbquests:book}',
+2 : '{Count:1b,id:"ftbquests:book"}',
 3 : '',
 4 : '',
 5 : '',

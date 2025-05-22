@@ -1595,9 +1595,9 @@
     "modId": "nerdhaus-adventures",
     "version": "0.1.0"
   },
-  "nerdhaus-skills-1.0.0.jar": {
+  "nerdhaus-skills-1.1.0.jar": {
     "modId": "nerdhaus-skills",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "Neruina-2.2.11-fabric+1.20.1.jar": {
     "modId": "neruina",
@@ -2183,6 +2183,10 @@
     "modId": "twigs",
     "version": "3.1.0"
   },
+  "twilightforest-fabric-1.20.1-1.4.7.jar": {
+    "modId": "twilightforest",
+    "version": "1.4.7"
+  },
   "txnilib-fabric-1.0.23-1.20.1.jar": {
     "modId": "txnilib",
     "version": "1.0.23"
@@ -2190,10 +2194,6 @@
   "ubesdelight-fabric-1.20.1-0.3.4.jar": {
     "modId": "ubesdelight",
     "version": "0.3.4"
-  },
-  "ukrainian-delight-0.5-alpha+1.20.1.jar": {
-    "modId": "ukrainian_delight",
-    "version": "0.5-alpha+1.20.1"
   },
   "UndergroundBunkers-1.0.3-1.19.2-1.20.4-fabric.jar": {
     "modId": "underground_bunkers",
